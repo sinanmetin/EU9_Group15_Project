@@ -8,5 +8,7 @@ public class TestYing {
         System.out.println("Is that right?");
 
         System.out.println("yes thats rigth Ying, you are doing well");
+
+        System.out.println("How did u make changes in my test?");
     }
 }
