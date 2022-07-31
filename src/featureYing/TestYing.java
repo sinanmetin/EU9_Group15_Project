@@ -6,5 +6,7 @@ public class TestYing {
 
         System.out.println("Hey guy, here i am!");
         System.out.println("Is that right?");
+
+        System.out.println("yes thats rigth Ying, you are doing well");
     }
 }
