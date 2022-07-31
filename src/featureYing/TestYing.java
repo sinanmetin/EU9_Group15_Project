@@ -5,5 +5,6 @@ public class TestYing {
     public static void main(String[] args) {
 
         System.out.println("Hey guy, here i am!");
+        System.out.println("Is that right?");
     }
 }
